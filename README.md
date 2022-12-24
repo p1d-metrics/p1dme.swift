@@ -60,6 +60,10 @@ P1dme.shared.logEvent(
 
 The callback parameter can be omitted, but it returns the *event* as stored by the server. Which can be useful if you would like to show your users what information of his/her behaviour is stored server-side.
 
+## Documentation
+
+* [SDK Documentation (Swift-DocC)](https://p1d-metrics.github.io/p1dme.swift/documentation/p1dme)
+
 ## Author
 
 * [Ezequiel (Kimi) Aceto](ezequiel.aceto+p1dme@gmail.com)
